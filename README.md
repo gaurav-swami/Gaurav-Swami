@@ -1,4 +1,4 @@
-👋 Hi, I’m @Gaurav-Swami an aspiring software developer. I am proficient in JavaScript and its development framework for the backend and the frontend. 
+👋 Hi, I’m @Gaurav-Swami an aspiring software developer. I am proficient in JavaScript and its back and frontend development framework. 
 
 
 <!---
