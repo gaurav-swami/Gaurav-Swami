@@ -2,7 +2,7 @@
 
 🎓 BCA Student | 📱 React Native Developer | 💻 Frontend Enthusiast  
 🔭 Currently building: [Rate My Day](#) | [Smart Lock Site](#)  
-🌱 Learning: React Native, Firebase, SQLite, Tailwind CSS  
+🌱 Learning: React Native, Firebase, SQLite.  
 📫 Reach me: [LinkedIn](#) | [Email](#)  
 
 ## 🛠️ Tech Stack
