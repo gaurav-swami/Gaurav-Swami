@@ -13,6 +13,5 @@ React Native · React · JavaScript · Firebase · SQLite · Tailwind CSS · Git
 - 📝 [Notes App with Markdown](#) – Local DB, Drag & Drop, CRUD
 - 💬 [Mini Chat App](#) – Realtime messaging with Firebase
 
-## 📊 GitHub Stats
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravswami&show_icons=true&theme=radical)
+
 
