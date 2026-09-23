@@ -6,7 +6,7 @@ Reach me: [LinkedIn](https://www.linkedin.com/in/gaurav-swami-b2005627a/) | [Ema
 ## Tech Stack
 React Native · React · NodeJS  · MongoDB · Tailwind CSS · Git . 
 
-#I use Arch BTW
+I use Arch btw
 
 
 
