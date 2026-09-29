@@ -1,10 +1,10 @@
 ## Hi, I'm Gaurav
 
-BCA Student | ReactJs/React-Native Developer | MERN Stack  
+MCA Student | ReactJs/React-Native Developer | MERN Stack  
 Reach me: [LinkedIn](https://www.linkedin.com/in/gaurav-swami-b2005627a/) | [Email](mailto:gauravswami0404@gmail.com)
 
 ## Tech Stack
-React Native · React · NodeJS  · MongoDB · Tailwind CSS · Git . 
+React Native · React · Node.js  · MongoDB · Tailwind CSS · Git . 
 
 I use Arch btw
 
